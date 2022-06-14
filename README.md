@@ -20,7 +20,7 @@ This is Telegram Parmanent Files Store Bot by [@AbirHasan2005](https://github.co
 - `BOT_TOKEN` - Get this from [@BotFather](https://t.me/BotFather)
 - `BOT_USERNAME` - You Bot Username. *(Without [@])*
 - `DB_CHANNEL` - A Telegram Channel ID.
-	- Make a Channel for Storing Files. We will use that as Database. Channel must be Private! Else you will be Copyright by [Telegram DMCA](https://t.me/dmcatelegram)!
+	- Make a Channel for Storing Files. We will use that as Database. Channel must be Private! Else you will be Copyright by [Telegram DMCA](https:/kingmaker003/t.me/dmcatelegram)!
 - `BOT_OWNER` - Bot Owner UserID
 	- Put your Telegram UserID for doing Broadcast.
 - `DATABASE_URL` - MongoDB Database URI
@@ -42,7 +42,7 @@ This is Telegram Parmanent Files Store Bot by [@AbirHasan2005](https://github.co
 [![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/hHu2RaePhwI)
 
 ### Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbirHasan2005/PyroFilesStoreBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kingmaker003/PyroFilesStoreBot)
 
 ## Commands:
 ```
